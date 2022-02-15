@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/baseline-camera-24px.svg</file>
+        <file>res/baseline-flip-24px.svg</file>
+        <file>res/baseline-folder_open-24px.svg</file>
+        <file>res/baseline-restore-24px.svg</file>
+        <file>res/baseline-rotate_90_degrees_ccw-24px.svg</file>
+        <file>res/baseline-rotate_left-24px.svg</file>
+        <file>res/baseline-rotate_right-24px.svg</file>
+        <file>res/baseline-save_alt-24px.svg</file>
+        <file>res/baseline-settings-20px.svg</file>
+        <file>res/baseline-zoom_in-24px.svg</file>
+        <file>res/baseline-zoom_out-24px.svg</file>
+        <file>res/baseline-edit-24px.svg</file>
+        <file>res/baseline-computer-24px.svg</file>
+        <file>res/baseline-play_arrow-24px.svg</file>
+        <file>res/baseline-brightness_3-24px.svg</file>
+        <file>res/baseline-brightness_5-24px.svg</file>
+        <file>res/baseline-pause-24px.svg</file>
+    </qresource>
+</RCC>
